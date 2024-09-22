@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "AMIRTHA Hospital",
+    "patient_count": 350,
+    "location": "kochi"
+  },
+  {
+    "id": 2,
+    "name": "kIMS",
+    "patient_count": 275,
+    "location": "Tvm"
+  },
+  {
+    "id": 3,
+    "name": "vijayas",
+    "patient_count": 202,
+    "location": "kottarakkara"
+  },
+  {
+    "id": 4,
+    "name": "RCC",
+    "patient_count": 152,
+    "location": "Pattam"
+  },
+  {
+    "id": 5,
+    "name": "Sunshine Healthcare",
+    "patient_count": 180,
+    "location": "plk"
+  },
+  {
+    "id": 6,
+    "name": "gokulam",
+    "patient_count": 180,
+    "location": "tvm"
+  },
+  {
+    "id": 7,
+    "name": "CITY HOSPITAL",
+    "patient_count": 152,
+    "location": "kvr"
+  }
+]
